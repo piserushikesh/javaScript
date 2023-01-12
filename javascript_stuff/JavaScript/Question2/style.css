@@ -1,0 +1,19 @@
+.for_form{
+    background: linear-gradient(to right, #2c3e50, #bdc3c7);
+    border-radius: 5px;
+    width: 550px;
+    margin: 20px auto;
+    padding: 20px;
+}
+.for_formREd{
+    background: linear-gradient(to right, #502c2c, #ed142d);
+    border-radius: 5px;
+    width: 550px;
+    margin: 20px auto;
+    padding: 20px;
+}
+
+
+.form_body > *{
+    padding: 5px;
+}
